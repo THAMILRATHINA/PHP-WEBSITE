@@ -132,6 +132,3 @@ Password: Dhruvpuri
     Username: PDS No as per DB,
     Password: First Name of the Distributor
 
-For contacting us,
-E-Mail: nallaabhi2003@gmail.com, goswamidj16@gmail.com
-LinkedIn: Abhishek Nalla, Dhruvpuri Goswami
